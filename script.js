@@ -27,7 +27,7 @@ gsap.to(".header", {
 
 
   gsap.to(".main", {
-    backgroundColor: "#fafafa",
+    backgroundColor: "#eeeeee",
     scrollTrigger: {
       trigger: ".main",
       scroller: "body",
